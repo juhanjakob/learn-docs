@@ -1,7 +1,5 @@
-# Pealkiri 1
+# Tunnusgraafika
 
-sisu
+## Kolm logokavandit
 
-## Pealkiri 2
-
-sisusisu
+![logovalik](./logod.svg)

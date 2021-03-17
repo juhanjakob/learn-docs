@@ -12,7 +12,16 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
-  "git": {}
+  "git": {
+    "updatedTime": 1615369275000,
+    "contributors": [
+      {
+        "name": "juhanjakob",
+        "email": "juhanjakob.kalberg@tptlive.ee",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {
