@@ -11,22 +11,23 @@ export const data = {
       "title": "Kolm logokavandit",
       "slug": "kolm-logokavandit",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "24. märst",
+      "slug": "_24-marst",
+      "children": []
     }
   ],
   "filePathRelative": "cvi/README.md",
   "git": {
-    "updatedTime": 1615369275000,
+    "updatedTime": 1615995014000,
     "contributors": [
       {
         "name": "juhanjakob",
         "email": "juhanjakob.kalberg@tptlive.ee",
-        "commits": 1
+        "commits": 2
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  __VUE_HMR_RUNTIME__.updatePageData(data)
 }
